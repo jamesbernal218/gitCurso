@@ -2,8 +2,9 @@
 °git status --> te indica en que estatus se encuentra el proyecto
 °git add<file> --> agregar un archivo al working directory
 °git commit -->
-  tecla de escape
-  despues poner :wq
+  precionar letra "i" --> para comenzar a escribir.
+  tecla de escape "esq" --> para poder salir
+  ":wq" --> para poder regresar al bash 
 
   °git log --> te indica el commit que se hizo.
   °git checkout -- nombreArchivo -->Borrar los cambios que se le hicieron.
